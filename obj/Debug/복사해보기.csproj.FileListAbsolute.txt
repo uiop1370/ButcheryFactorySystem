@@ -1,0 +1,293 @@
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\복사해보기.exe
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\복사해보기.pdb
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\복사해보기\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.exe
+C:\Users\Admin\source\repos\복사해보기\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\새 폴더\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7 (2)\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form디자인수정\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\미니프로젝트\이선재님\2\Form디자인수정2\Form4.7 (2)\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form4.7 (2) (2)\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\완성하자\Form7.1\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의 완성\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의완성본\거의완성11\거의 완성11\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\거의 완성\Form6.0\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1\완성1\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\완성1.1\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\복사해보기.exe.config
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\복사해보기.pdb
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form3.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form1.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form2.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form4.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form5.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form7.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Form8.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.Properties.Resources.resources
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.csproj.CopyComplete
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.exe
+C:\Users\Admin\Desktop\완성1.2\완성1.2\완성1\미니프로젝트\obj\Debug\복사해보기.pdb
