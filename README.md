@@ -1,8 +1,12 @@
 # ButcheryFactorySystem
 프로젝트명 : 도축공장 자동화 시스템
+
 사용언어 : C#
+
 사용프로그램 : Visual Studio
+
 개발기간 : 2021.05.26~2021.05.31
+
 
 ![슬라이드1](https://user-images.githubusercontent.com/83994416/121761052-b940c880-cb68-11eb-8357-5ec669d139a4.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/83994416/121761068-c5c52100-cb68-11eb-8ddf-728300db03fb.PNG)
